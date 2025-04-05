@@ -1,2 +1,2 @@
 # Statistics
-Hardwork never fail
+
